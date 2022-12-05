@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Engineer
 
-- 🏢 I'm currently working at [Tapu.com][tapu]
+- 🏢 I'm currently working at [IsSistem.com][gida]
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -46,7 +46,7 @@
 
 </details> -->
 
-[tapu]: https://tapu.com
+[gida]: https://isholding.com/faaliyet-alanlari/gida
 [website]: https://Vadlec.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/Vadlec
