@@ -3,9 +3,6 @@
 ## I'm a Frontend Engineer
 
 - 🏢 I'm currently working at [IsSistem.com][gida]
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
